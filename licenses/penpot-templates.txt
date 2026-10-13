@@ -1,0 +1,60 @@
+AAKARA - TEMPLATES ADAPTED FROM PENPOT COMMUNITY FILES
+
+Source repository: https://github.com/penpot/penpot-files
+License: Creative Commons Attribution 4.0 International (CC BY 4.0), the default license
+of that repository for files without their own .LICENSE file.
+https://creativecommons.org/licenses/by/4.0/
+
+Changes made for Aakara: boards were converted to Aakara layers, groups and nested boards
+were flattened, embedded photos and images were replaced with placeholders, fonts were
+mapped to Google Fonts, text keeps one style per text box, and Penpot and Kaleidos logos,
+the Penpot mascot and Penpot links were removed from the slides template.
+
+"Penpot slides template" by Penpot
+  https://penpot.app/penpothub/libraries-templates/penpot-slides-template
+  11 templates
+
+"Just another resume template" by Maximo Gomez
+  https://penpot.app/penpothub/libraries-templates/just-another-resume-template
+  2 templates
+
+"Curriculum" by Enieber Cunha
+  https://penpot.app/penpothub/libraries-templates/curriculum
+  4 templates
+
+"Bingo - Reading challenge" by Marina Lopez
+  https://penpot.app/penpothub/libraries-templates/bingo-reading-challenge
+  1 template
+
+"Cartas creativas" by Francisco González
+  https://penpot.app/penpothub/libraries-templates/cartas-creativas
+  1 template
+
+"Black & White mobile templates" by Penpot community
+  https://github.com/penpot/penpot-files/blob/main/Black-%26-White-Mobile-Templates.penpot
+  12 templates
+
+"Webdesign layouts with tokens and variants" by Louis Chancé
+  https://penpot.app/penpothub/libraries-templates/webdesign-layout
+  28 templates
+
+"CSD Matrix" by Renan Mayrinck
+  https://penpot.app/penpothub/libraries-templates/csd-matrix
+  1 template
+
+"Lean UX Canvas" by Penpot
+  https://penpot.app/penpothub/libraries-templates/lean-ux-canvas
+  1 template
+
+"Empathy maps" by Penpot
+  https://penpot.app/penpothub/libraries-templates/empathy-maps
+  2 templates
+
+"Eisenhower matrix" by Elhombretecla
+  https://penpot.app/penpothub/libraries-templates/eisenhower-matrix
+  2 templates
+
+"Ultimate whiteboarding kit" by Renan Mayrinck
+  https://penpot.app/penpothub/libraries-templates/ultimate-whiteboarding-kit
+  14 templates
+

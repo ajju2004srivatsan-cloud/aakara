@@ -1,0 +1,1 @@
+import{W as o}from"./project-CgpU0STQ.js";import{d as a}from"./render-CuNxRaXT.js";import"./index-BI_LKOt1.js";function s(r,i,e,n){const t=o(i);return t?(r.clearRect(0,0,r.canvas.width,r.canvas.height),a(r,t,[e,0,0,e,0,0],e,n,{clip:!0}),!0):!1}export{s as paintStudioThumb};

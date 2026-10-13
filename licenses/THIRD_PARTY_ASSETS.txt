@@ -1,0 +1,39 @@
+AAKARA - THIRD-PARTY ASSETS AND CREDITS
+
+Lucide icons
+  https://lucide.dev - ISC licence (see /licenses/lucide.txt)
+  Used in the Elements panel and the editor interface.
+
+Google Fonts
+  https://fonts.google.com - SIL Open Font License 1.1 or Apache License 2.0, per family.
+  107 families, including Indian-script families for Devanagari, Bengali, Tamil, Telugu,
+  Kannada, Malayalam, Gujarati, Gurmukhi and Odia. Fonts are loaded from Google when used.
+
+Rekha procedural studio libraries (all MIT licence)
+  @xyflow/react (React Flow) - https://github.com/xyflow/xyflow - node graph
+  polygon-clipping - https://github.com/mfogel/polygon-clipping - Boolean node
+  flubber - https://github.com/veltman/flubber - Morph node
+  perfect-freehand - https://github.com/steveruizok/perfect-freehand - brush strokes
+  simplex-noise - https://github.com/jwagner/simplex-noise.js - Noise pattern and Noise warp
+  gifenc - https://github.com/mattdesl/gifenc - GIF export
+  Rekha is inspired by the ideas of Graphite (https://graphite.art); none of its code or art is included.
+
+Openverse photos
+  https://openverse.org - licence varies per photo (CC0, CC BY, CC BY-SA, ...).
+  The licence, creator and source of each photo you add are saved with it and shown in the editor.
+
+Penpot community templates
+  https://github.com/penpot/penpot-files - Creative Commons Attribution 4.0 (CC BY 4.0).
+  79 slide, resume, mobile screen, website section, whiteboard and activity templates were
+  adapted from files by Penpot, Renan Mayrinck, Louis Chancé, Enieber Cunha, Maximo Gomez,
+  Elhombretecla, Marina Lopez, Francisco González and other Penpot community members.
+  Authors, sources and the changes made are listed in /licenses/penpot-templates.txt.
+  The template's credit is saved with each design and shown in Export.
+
+Original Aakara artwork
+  The Indian motifs (lotus, kolam, rangoli, paisley, diya, gopuram, jharokha, kalash,
+  mango leaf, peacock eye, temple border, toran, mandala, sun rosette), the lotus logo,
+  the kraft and temple-band textures, and every template not listed above were drawn for Aakara and
+  are not traced from existing artwork.
+
+Made in India.
